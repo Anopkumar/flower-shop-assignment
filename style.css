@@ -85,7 +85,9 @@
     padding-bottom: 20px;
 }
 .support-section{
-    background: rgba(44, 40, 40, 0.05);  
+    background: rgba(44, 40, 40, 0.05); 
+    padding-top: 12px; 
+    display: 90%;
 
 }
 .sub-support-section{
