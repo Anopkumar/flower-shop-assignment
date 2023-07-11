@@ -3,7 +3,7 @@
     padding: 0px;
 }
 .banner-parent{
-    background-color: rgba(229, 84, 115, 0.10);;
+    background-color:rgba(229, 84, 115, 0.10);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -194,6 +194,16 @@
     cursor:pointer;
     width: 400px;
     height: 40px;
+}
+.delivery-title{
+    text-align: center;
+    padding: 20px;
+}
+.delivery-items{
+    color: goldenrod;
+}
+.delivery-description{
+    padding: 10px;
 }
 .about-footer{
     background-color: black;
