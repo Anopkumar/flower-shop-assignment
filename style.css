@@ -24,6 +24,7 @@
     padding: 10px 15px 10px 15px;
     border-radius: 5px;
     margin-top:  20px;
+    cursor: pointer;
 }
 
 .banner-title{
@@ -31,6 +32,67 @@
 }
 .banner.description{
     margin-top:  20px;
+}
+.flower-tree{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 15px;
+    
+    
+}
+.tulip-flower{
+    width: 270px;
+    height: 310px;
+    background-color:rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+
+}
+.bokey-flower{
+    width: 270px;
+    height: 310px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.yellow-flower{
+    width: 270px;
+    height: 310px;
+    border-radius: 300px 300px 0px 0px;
+    background-color:  rgba(71, 125, 17, 0.15);
+    1x
+    
+}
+.flower-tree-info{
+    text-align: center;
+}
+.flower-tree-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 15px;
+
+}
+.pink-title{
+    text-decoration: underline;
+}
+.flower-tree-description{
+    padding-bottom: 20px;
+}
+.support-section{
+    background: rgba(44, 40, 40, 0.05);  
+
+}
+.sub-support-section{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    gap: 20px;
+    border-radius: 8px;
+}
+.Delivery-support{
+    text-align: center;
 }
 
 .sale-section{
@@ -118,6 +180,11 @@
 }
 .about-bg-section{
     padding: 40px 10px 40px 10px;
+}
+.input-email{
+    border: none;
+    border-radius: 4px;
+    cursor:pointer;
 }
 .about-footer{
 
