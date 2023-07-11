@@ -21,7 +21,7 @@
 .btn{
     background-color:  #E55473;
     border: none;
-    padding: 15px 20px 15px 20px;
+    padding: 10px 15px 10px 15px;
     border-radius: 5px;
     margin-top:  20px;
 }
@@ -31,6 +31,17 @@
 }
 .banner.description{
     margin-top:  20px;
+}
+
+.sale-section{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.sale-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
 }
 
 
@@ -76,21 +87,43 @@
     font-size: 15px;
     
 }
+.about-bg{
+    background-image: url("./images/Rectangle\ 9.png");
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 0px 200px 0px 200px;
+    padding: 100px;
+}
+.bg-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 20px;
+    
+}
+.bg-desccription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    padding: 20px;
+}
+.about-bg-section{
+    padding: 40px 10px 40px 10px;
+}
 .about-footer{
 
     height:10px;
     background-color: black;
     color: white;
     text-align: center;
-    padding: 200px;
+    padding: 100px;
     
 
 }
 .footer-title{
-   
-    font-size: 48px;
-
-    font-weight: 800;
+   font-size: 48px;
 
 }
 .sub-footer{
