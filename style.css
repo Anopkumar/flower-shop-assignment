@@ -44,6 +44,7 @@
     justify-content: center;
     gap: 15px;
     margin-bottom: 40px;
+
     
     
 }
@@ -89,6 +90,9 @@
     background: rgba(44, 40, 40, 0.05); 
     padding-top: 12px; 
     display: 90%;
+    
+    margin-left: 250px;
+    margin-right: 250px;
 
 }
 .sub-support-section{
